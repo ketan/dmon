@@ -30,7 +30,7 @@ namespace :release do
 
     spec = Gem::Specification.new do |s|
       s.name              = "dmon"
-      s.version           = "0.0.1"
+      s.version           = "0.0.1a"
       s.author            = "Ketan Padegaonkar"
       s.email             = "ketanpadegaonkar@gmail.com"
       s.homepage          = "http://github.com/ketan/dmon"

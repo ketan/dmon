@@ -1,0 +1,5 @@
+--no-private
+--title "dmon - process management"
+lib/**/*.rb -
+MIT-LICENSE.txt
+--markup markdown

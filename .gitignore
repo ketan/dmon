@@ -1,3 +1,5 @@
 CHANGELOG
 pkg/dmon-0.0.1.gem
 dmon.gemspec
+doc/
+.yardoc
